@@ -1,5 +1,5 @@
-"Nombre: Alberto Saucedo Ju rez" 
-"N£mero de control: 4271035948" 
+"Nombre: Alberto Saucedo Juarez" 
+"NÂ£mero de control: 4271035948" 
 "Correo institucional: albertosj.ti21@utsjr.edu.mx" 
-"C¢digo de estudiante: 20211443097" 
+"CÂ¢digo de estudiante: 20211443097" 
 "Carrera: Ingeniero en Desarrollo de Software Multiplataformas" 
